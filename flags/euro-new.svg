@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1771.48 1063.12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bb1b1b;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #318120;
+      }
+
+      .cls-3 {
+        fill: #fc3;
+      }
+
+      .cls-4 {
+        fill: #185886;
+      }
+
+      .cls-5 {
+        fill: #fefefe;
+      }
+
+      .cls-6 {
+        fill: #c2b280;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="1771.48 0 1771.48 1062.54 885.74 176.8 1063.12 0 1771.48 0"/>
+  <polygon class="cls-5" points="0 0 531.56 531.56 1063.12 0 0 0"/>
+  <rect class="cls-4" x="635.35" y="281.05" width="501.04" height="500.83" transform="translate(-116.34 782.06) rotate(-45)"/>
+  <polygon class="cls-2" points="0 1063.12 1062.54 1063.12 0 0 0 1063.12"/>
+  <polygon class="cls-6" points="1062.54 1063.12 885.74 885.74 1239.92 531.56 1771.48 1063.12 1062.54 1063.12"/>
+  <g>
+    <polygon id="Five-pointed_star.svg" data-name="Five-pointed star.svg" class="cls-3" points="885.74 381.82 925.48 494.7 1045.27 494.7 951.97 567.84 985.37 680.72 885.74 614.49 786.11 680.72 819.51 567.84 726.22 494.7 846 494.7 885.74 381.82"/>
+    <g>
+      <polygon id="Five-pointed_star.svg_0" data-name="Five-pointed star.svg 0" class="cls-3" points="885.74 907.05 903.59 957.73 957.73 957.73 915.69 990.55 930.66 1041.81 885.74 1011.86 840.82 1041.81 855.79 990.55 813.75 957.73 867.89 957.73 885.74 907.05"/>
+      <polygon id="Five-pointed_star.svg_1" data-name="Five-pointed star.svg 1" class="cls-3" points="885.74 21.31 903.59 71.99 957.73 71.99 915.69 104.81 930.66 156.07 885.74 126.12 840.82 156.07 855.79 104.81 813.75 71.99 867.89 71.99 885.74 21.31"/>
+      <polygon id="Five-pointed_star.svg_2" data-name="Five-pointed star.svg 2" class="cls-3" points="1328.61 464.18 1346.46 514.86 1400.6 514.86 1358.56 547.68 1373.53 598.94 1328.61 568.99 1283.69 598.94 1298.66 547.68 1256.62 514.86 1310.76 514.86 1328.61 464.18"/>
+      <polygon id="Five-pointed_star.svg_3" data-name="Five-pointed star.svg 3" class="cls-3" points="442.87 464.18 460.72 514.86 514.86 514.86 472.82 547.68 487.79 598.94 442.87 568.99 397.95 598.94 412.92 547.68 370.88 514.86 425.02 514.86 442.87 464.18"/>
+      <polygon id="Five-pointed_star.svg_4" data-name="Five-pointed star.svg 4" class="cls-3" points="1112.65 848.31 1131.08 899.56 1184.63 899.56 1143.17 932.39 1158.14 983.64 1112.65 953.7 1067.73 983.64 1082.7 932.39 1040.66 899.56 1094.79 899.56 1112.65 848.31"/>
+      <polygon id="Five-pointed_star.svg_5" data-name="Five-pointed star.svg 5" class="cls-3" points="669.78 81.2 688.21 132.46 741.76 132.46 699.72 165.28 715.27 216.54 669.78 186.59 624.86 216.54 639.83 165.28 597.79 132.46 651.92 132.46 669.78 81.2"/>
+      <polygon id="Five-pointed_star.svg_6" data-name="Five-pointed star.svg 6" class="cls-3" points="1275.05 243.61 1292.9 294.29 1347.04 294.29 1305 327.69 1319.97 378.37 1275.05 348.42 1230.13 378.37 1245.1 327.69 1203.06 294.29 1257.2 294.29 1275.05 243.61"/>
+      <polygon id="Five-pointed_star.svg_7" data-name="Five-pointed star.svg 7" class="cls-3" points="507.95 686.48 525.8 737.16 579.94 737.16 537.89 770.56 552.87 821.24 507.95 791.29 463.03 821.24 478 770.56 435.96 737.16 490.09 737.16 507.95 686.48"/>
+      <polygon id="Five-pointed_star.svg_8" data-name="Five-pointed star.svg 8" class="cls-3" points="1270.44 678.41 1288.3 729.09 1342.43 729.09 1300.39 762.5 1315.36 813.18 1270.44 783.23 1225.52 813.18 1240.5 762.5 1198.46 729.09 1252.59 729.09 1270.44 678.41"/>
+      <polygon id="Five-pointed_star.svg_9" data-name="Five-pointed star.svg 9" class="cls-3" points="503.34 235.54 521.19 286.22 575.33 286.22 533.29 319.63 548.26 370.31 503.34 340.36 458.42 370.31 473.39 319.63 431.35 286.22 485.49 286.22 503.34 235.54"/>
+      <polygon id="Five-pointed_star.svg_10" data-name="Five-pointed star.svg 10" class="cls-3" points="1108.04 73.14 1126.47 124.4 1180.03 124.4 1137.99 157.22 1152.96 208.48 1108.04 177.95 1063.12 208.48 1078.09 157.22 1036.05 124.4 1090.19 124.4 1108.04 73.14"/>
+      <polygon id="Five-pointed_star.svg_11" data-name="Five-pointed star.svg 11" class="cls-3" points="665.17 840.24 683.6 891.5 737.16 891.5 695.12 924.33 710.09 975.58 665.17 945.06 620.25 975.58 635.22 924.33 593.18 891.5 647.32 891.5 665.17 840.24"/>
+    </g>
+  </g>
+</svg>

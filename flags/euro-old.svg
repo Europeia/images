@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.94444in" height="1.16666in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3076 1846"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#FEFEFE}
+    .fil2 {fill:#00367C}
+    .fil4 {fill:#20D402}
+    .fil5 {fill:#E8F783}
+    .fil3 {fill:#ECC520}
+    .fil0 {fill:#FF3919}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_180685320">
+   <polygon class="fil0" points="3076,0 3076,1845 1538,307 1846,0 "/>
+   <polygon class="fil1" points="0,0 923,923 1846,0 "/>
+   <rect class="fil2" transform="matrix(-0.732055 -0.732055 -0.707107 0.707107 2153.27 922.707)" width="840" height="870"/>
+   <polygon id="Five-pointed_star.svg" class="fil3" points="1538,663 1607,859 1815,859 1653,986 1711,1182 1538,1067 1365,1182 1423,986 1261,859 1469,859 "/>
+   <polygon class="fil4" points="0,1846 1845,1846 0,0 "/>
+   <polygon class="fil5" points="1845,1846 1538,1538 2153,923 3076,1846 "/>
+   <polygon id="Five-pointed_star.svg_0" class="fil3" points="1538,1575 1569,1663 1663,1663 1590,1720 1616,1809 1538,1757 1460,1809 1486,1720 1413,1663 1507,1663 "/>
+   <polygon id="Five-pointed_star.svg_1" class="fil3" points="1538,37 1569,125 1663,125 1590,182 1616,271 1538,219 1460,271 1486,182 1413,125 1507,125 "/>
+   <polygon id="Five-pointed_star.svg_2" class="fil3" points="2307,806 2338,894 2432,894 2359,951 2385,1040 2307,988 2229,1040 2255,951 2182,894 2276,894 "/>
+   <polygon id="Five-pointed_star.svg_3" class="fil3" points="769,806 800,894 894,894 821,951 847,1040 769,988 691,1040 717,951 644,894 738,894 "/>
+   <polygon id="Five-pointed_star.svg_4" class="fil3" points="1932,1473 1964,1562 2057,1562 1985,1619 2011,1708 1932,1656 1854,1708 1880,1619 1807,1562 1901,1562 "/>
+   <polygon id="Five-pointed_star.svg_5" class="fil3" points="1163,141 1195,230 1288,230 1215,287 1242,376 1163,324 1085,376 1111,287 1038,230 1132,230 "/>
+   <polygon id="Five-pointed_star.svg_6" class="fil3" points="2214,423 2245,511 2339,511 2266,569 2292,657 2214,605 2136,657 2162,569 2089,511 2183,511 "/>
+   <polygon id="Five-pointed_star.svg_7" class="fil3" points="882,1192 913,1280 1007,1280 934,1338 960,1426 882,1374 804,1426 830,1338 757,1280 851,1280 "/>
+   <polygon id="Five-pointed_star.svg_8" class="fil3" points="2206,1178 2237,1266 2331,1266 2258,1324 2284,1412 2206,1360 2128,1412 2154,1324 2081,1266 2175,1266 "/>
+   <polygon id="Five-pointed_star.svg_9" class="fil3" points="874,409 905,497 999,497 926,555 952,643 874,591 796,643 822,555 749,497 843,497 "/>
+   <polygon id="Five-pointed_star.svg_10" class="fil3" points="1924,127 1956,216 2049,216 1976,273 2002,362 1924,309 1846,362 1872,273 1799,216 1893,216 "/>
+   <polygon id="Five-pointed_star.svg_11" class="fil3" points="1155,1459 1187,1548 1280,1548 1207,1605 1233,1694 1155,1641 1077,1694 1103,1605 1030,1548 1124,1548 "/>
+  </g>
+ </g>
+</svg>
